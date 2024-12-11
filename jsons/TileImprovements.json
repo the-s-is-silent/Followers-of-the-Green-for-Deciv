@@ -170,7 +170,6 @@
 		"food": 1,
 		"culture": 1,
 		"turnsToBuild": 5,
-		"techRequired": "Ecology",
 		"uniques": [
 			"Food source",
 			"Park",
@@ -205,7 +204,6 @@
 		"production": 1,
 		"culture": 1,
 		"turnsToBuild": 5,
-		"techRequired": "Ecology",
 		"uniques": [
 			"Park",
 			"Does not need removal of [Forest]",
