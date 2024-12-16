@@ -662,6 +662,7 @@
 		"requiredTech": "Engineering",
 		"uniques": [
 			"Provides [1] [Power] <for every [Green Energy]>",
+			"Only available <with [Green Energy]>",
 			"Cost increases by [30] per owned city"
 		]
 	},
